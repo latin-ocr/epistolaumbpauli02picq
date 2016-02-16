@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epistolaumbpauli02picq_0005.png"; bbox 0 0 1526 3178; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 321 1493 1206 1683">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 321 1493 1206 1683">
+     <span class='ocr_line' id='line_1_1' title="bbox 396 1493 1133 1546; baseline 0 -12"><span class='ocrx_word' id='word_1_1' title='bbox 396 1495 592 1546; x_wconf 66' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_2' title='bbox 612 1495 662 1546; x_wconf 83' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 680 1495 750 1535; x_wconf 77' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_4' title='bbox 772 1493 943 1535; x_wconf 72' lang='lat' dir='ltr'>{memet</span> <span class='ocrx_word' id='word_1_5' title='bbox 960 1495 1133 1535; x_wconf 72' lang='lat' dir='ltr'>Archive</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 473 1564 1055 1615; baseline 0 -12"><span class='ocrx_word' id='word_1_6' title='bbox 473 1564 507 1603; x_wconf 84' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 527 1565 639 1604; x_wconf 82' lang='lat'>2009</span> <span class='ocrx_word' id='word_1_8' title='bbox 656 1564 747 1604; x_wconf 76' lang='lat' dir='ltr'>with</span> <span class='ocrx_word' id='word_1_9' title='bbox 766 1564 935 1615; x_wconf 72' lang='lat' dir='ltr'>fundinq</span> <span class='ocrx_word' id='word_1_10' title='bbox 953 1564 1055 1604; x_wconf 78' lang='lat' dir='ltr'>from</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 321 1632 1206 1683; baseline -0.001 -11"><span class='ocrx_word' id='word_1_11' title='bbox 321 1632 490 1672; x_wconf 78' lang='lat' dir='ltr'>Ontario</span> <span class='ocrx_word' id='word_1_12' title='bbox 510 1632 680 1672; x_wconf 79' lang='lat' dir='ltr'><strong>Counci!</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 700 1632 741 1672; x_wconf 81' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_14' title='bbox 762 1632 988 1683; x_wconf 78' lang='lat' dir='ltr'>University</span> <span class='ocrx_word' id='word_1_15' title='bbox 1009 1632 1206 1672; x_wconf 73' lang='lat' dir='ltr'>Libraries</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 142 3013 1387 3064">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 142 3013 1387 3064">
+     <span class='ocr_line' id='line_1_4' title="bbox 142 3013 1387 3064; baseline 0.001 -12"><span class='ocrx_word' id='word_1_16' title='bbox 142 3013 1387 3064; x_wconf 66' lang='lat' dir='ltr'>htt&#39;p:sswwwarchive.0rqsdetai{slepistolaumbpaulioapicq</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
